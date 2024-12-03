@@ -1,0 +1,176 @@
+[
+    {
+        "Word_in_Kurdish": "برا",
+        "Meaning_in_Kurdish": "نێرینەیەکە کە لە باوک و دایکت یا لە یەکێکیان بێ",
+        "Phonetics": "/ˈbɪɾa/",
+        "Part_of_Speech": "Noun",
+        "From_Dictionaries": [
+            {
+                "Name": "Kurdish Standard Dictionary",
+                "Additional_Info": "Comprehensive resource for modern Kurdish."
+            },
+            {
+                "Name": "Kurdish Classical Dictionary",
+                "Additional_Info": "Focuses on older dialects and literary usage."
+            }
+        ],
+        "Dialects": {
+            "Kurmanji": {
+                "Word": "bira",
+                "Contextual_Usage": [
+                    "Bira min, min dikana xwe dayewe."
+                ]
+            },
+            "Sorani": {
+                "Word": "برا",
+                "Contextual_Usage": [
+                    "Bira min, zarokê min xweşik dît."
+                ]
+            },
+            "Bahdini": {
+                "Word": "برا",
+                "Contextual_Usage": [
+                    "Bira min tazî nûçe da."
+                ]
+            },
+            "Lurri": {
+                "Word": "برا",
+                "Contextual_Usage": []
+            },
+            "Zazaki": {
+                "Word": "برا",
+                "Contextual_Usage": []
+            },
+            "Gorani": {
+                "Word": "برا",
+                "Contextual_Usage": []
+            },
+            "Horami": {
+                "Word": "برا",
+                "Contextual_Usage": []
+            },
+            "Shebek": {
+                "Word": "برا",
+                "Contextual_Usage": []
+            },
+            "Kakai": {
+                "Word": "برا",
+                "Contextual_Usage": []
+            },
+            "Faili": {
+                "Word": "برا",
+                "Contextual_Usage": []
+            },
+            "Pahlewani": {
+                "Word": "برا",
+                "Contextual_Usage": []
+            },
+            "Kalhuri": {
+                "Word": "برا",
+                "Contextual_Usage": []
+            }
+        },
+        "Translations": [
+            {
+                "Language": "Persian",
+                "Translation": "برادر"
+            },
+            {
+                "Language": "Arabic",
+                "Translation": "أخ"
+            },
+            {
+                "Language": "English",
+                "Translation": "Brother"
+            },
+            {
+                "Language": "Turkish",
+                "Translation": "Kardeş"
+            }
+        ],
+        "Related_Words_Phrases": {
+            "Synonyms": {
+                "Strongest_Matches": [
+                    "birake"
+                ],
+                "Strong_Matches": [
+                    "birayekî"
+                ],
+                "Weak_Matches": [
+                    "birawa"
+                ]
+            },
+            "Antonyms": {
+                "Strongest_Matches": [
+                    "êniya"
+                ],
+                "Strong_Matches": [
+                    "nas"
+                ],
+                "Weak_Matches": [
+                    "xarib"
+                ]
+            },
+            "Associated_Words": [
+                {
+                    "Word": "Mother",
+                    "Relation": "Parent"
+                },
+                {
+                    "Word": "Sister",
+                    "Relation": "Sibling"
+                }
+            ]
+        },
+        "Type_of_Relation": [
+            {
+                "Relation": "Half-brother",
+                "Related_Word": "bira bawkî"
+            },
+            {
+                "Relation": "Elder brother",
+                "Related_Word": "biragewre"
+            },
+            {
+                "Relation": "Younger brother",
+                "Related_Word": "birapichûk"
+            }
+        ],
+        "Formality_and_Register": {
+            "Formality_Level": "Informal",
+            "Context": [
+                "Used casually in everyday conversation",
+                "Commonly used in family and close relationships"
+            ]
+        },
+        "Usage_Context": {
+            "Modern_Usage": {
+                "Context": "Used regularly in modern Kurdish dialects, referring to familial brotherhood."
+            }
+        },
+        "Thematic_Groupings": [
+            {
+                "Theme": "Family",
+                "Context": "Describes familial relations, specifically siblings."
+            },
+            {
+                "Theme": "Kinship",
+                "Context": "Part of the kinship system in Kurdish culture."
+            },
+            {
+                "Theme": "Economics",
+                "Context": "In economic contexts, may refer to 'brotherhood' in the sense of solidarity or communal support."
+            },
+            {
+                "Theme": "Biology",
+                "Context": "In biology, may refer to familial relationships, particularly in studies of genetics and hereditary traits."
+            }
+        ],
+        "Word_History": {
+            "First_Recorded_Usage": "1835",
+            "Cultural_Origin": "Kurdish oral tradition",
+            "Evolution": "Historically used for both literal and figurative brotherhood. Evolved over time to include familial, emotional, and metaphorical usages."
+        },
+        "Additional_Notes": "Often used affectionately among friends, especially in close-knit communities."
+    }
+]

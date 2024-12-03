@@ -1,0 +1,28 @@
+import bs4
+import requests
+
+
+def Ferhengi_Xall_parser(result):
+    meanings = result.select('.resultDef')[0].find_all('li')
+
+    for meaning in meanings:
+        print(meaning.text)
+
+
+def main():
+    html = requests.get('https://lex.vejin.net/en/search/?t=%D9%87%D9%84%D8%A7%DA%A4%DB%8E%D8%AA%D9%86')
+    document = bs4.BeautifulSoup(html.content.decode('utf-8'), features='html.parser')
+
+    results = document.findAll('div', {"class": "result"})
+
+    for result in results:
+        dict_name = result.select('span')[0].text
+
+        if dict_name == 'Ferhengî Xall':
+            data = Ferhengi_Xall_parser(result)
+        elif dict_name == 'Henbane Borîne':
+            pass
+
+
+if __name__ == '__main__':
+    main()
